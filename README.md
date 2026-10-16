@@ -1,13 +1,5 @@
 Welcome to my Excel data analysis portfolio! This repository showcases two comprehensive sales analysis projects built entirely using Microsoft Excel.
 
----
-
-## 📈 Project 1: Dynamic Sales Performance Analysis
-* *File:* Sales analysis.xlsm
-* *Objective:* Analyzed historic revenue streams to track monthly trends and regional performance metrics.
-* *Key Tools Used:* Advanced Pivot Tables, interactive slicers, Power Query, and automated VBA macros for report generation.
-
----
 
 ## 🛍️ Project 2: Commercial Sales Dashboard
 * *File:* Second Sales Dashboard.xlsx
