@@ -5,7 +5,7 @@ Welcome to my Excel data analysis portfolio! This repository showcases two compr
 ## 📈 Project 1: Dynamic Sales Performance Analysis
 * *File:* Sales analysis.xlsm
 * *Objective:* Analyzed historic revenue streams to track monthly trends and regional performance metrics.
-* *Key Tools Used:* Advanced Pivot Tables, interactive slicers, XLOOKUP, and automated VBA macros for report generation.
+* *Key Tools Used:* Advanced Pivot Tables, interactive slicers, Power Query, and automated VBA macros for report generation.
 
 ---
 
